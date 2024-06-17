@@ -4,3 +4,4 @@ input/
 output/*.pdf
 input/*.pdf
 .DS_Store
+images
